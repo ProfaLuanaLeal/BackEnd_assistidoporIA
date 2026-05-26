@@ -1,11 +1,5 @@
 # BackEnd_assistidoporIA
-Excelente! O **GitHub Codespaces** é o ambiente perfeito para essa aula. Ele remove completamente a barreira do *"na minha máquina funciona"*, já que todos os alunos terão exatamente o mesmo ambiente na nuvem, com Node.js pré-instalado e acesso direto às extensões.
 
-Como você vai usar o Codespaces, o ideal é atualizar o guia do aluno para refletir esse fluxo (incluindo o uso do **GitHub Copilot** nativo no navegador ou conectado ao VS Code local).
-
-Aqui está a adaptação da estrutura focada 100% na experiência dentro do Codespaces:
-
----
 
 # 🚀 Guia do Aluno: Lab de Back-End Assistido por IA (Versão Codespaces)
 
